@@ -3,11 +3,10 @@
 ## Aufgabenstellung
 Es wird eine Website zur Verfügung gestellt, in dem man als authentifizierter Nutzer (Zugangsdaten sind in der Aufgabenstellung dabei) 2 Fotoaufnahmen von Personen (Bilder) sehen kann.
 
-[Screenshot 1](./img/screenshot-1.png)
+![Screenshot 1](./img/screenshot-1.png)
 
 > Du bekommst von deinem Fotografen Zugangsdaten zu seinem Fotoshop, um dir deine Bilder herunterzuladen. Ein anderer Kunde hat sich eine Flag fotografieren lassen.
 > Findest du die Lücke?
-
 > Deine Zugangsdaten lauten: Benutzername: user Passwort: password
 
 ## Lösungsansatz
