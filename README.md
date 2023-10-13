@@ -8,12 +8,12 @@ Da es sich dabei um meine Lösungswege handelt und ich mich erst seit kurzem mit
 ## Challenges
 | Kategorie | Challenges |
 | --------- | ---------- |
-| rev | hashpump, FeO, abenteuerinsel-1 |
-| misc | kingdomof1337, insane, abenteuerinsel-2, java-judge |
+| rev | hashpump, [FeO](./rev/FeO/README.md), abenteuerinsel-1 |
+| misc | kingdomof1337, insane, abenteuerinsel-2, [java-judge](./misc/java-judge/README.md) |
 | pwn | heapit |
 | crypto | tastaturlayouts, secure-login |
-| stego | audio, ransomeware |
-| forensic | typelog |
-| web | fotoshop, comparison, montystresor, dbh-notes |
+| stego | [audio](./stego/audio/README.md), ransomeware |
+| forensic | [typelog](./forensic/typelog/README.md) |
+| web | [fotoshop](./web/fotoshop/README.md), [comparison](./web/comparison/README.md), [montystresor](./web/montystresor/README.md), dbh-notes |
 | windows | icar |
-| vuln | keepass |
+| vuln | [keepass](./vuln/keepass/README.md) |
